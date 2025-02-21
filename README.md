@@ -1,16 +1,10 @@
 # Weather App
 ![Flask 3.1.0](https://img.shields.io/badge/Flask-2.3.2-blue?logo=flask)
-
-![Flask-Migrate 4.1.0](https://img.shields.io/badge/Flask-Migrate-2.3.2-orange?logo=flask)
-
-![Flask-SQLAlchemy 3.1.1](https://img.shields.io/badge/Flask-SQLAlchemy-2.3.2-purple?logo=flask)
-
-![Flask-WTF 1.2.2](https://img.shields.io/badge/Flask-WTF-2.3.2-red?logo=flask)
-
+![Flask-Migrate 4.1.0](https://img.shields.io/badge/Flask_Sqlalchemy-2.3.2-orange?logo=flask)
+![Flask-SQLAlchemy 3.1.1](https://img.shields.io/badge/Flask_WTF-2.3.2-purple?logo=flask)
+![Flask-WTF 1.2.2](https://img.shields.io/badge/Flask_Migrate-2.3.2-red?logo=flask)
 ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green?logo=python)
-
-![requests 2.32.3](https://img.shields.io/badge/requests-2.3.2-blue)
-
+![requests 2.32.3](https://img.shields.io/badge/requests-2.3.2-white)
 ![OpenWeatherMap API](https://img.shields.io/badge/OpenWeatherMap-API-yellow?logo=openweathermap)
 
 >Простое и элегантное погодное приложение, созданное с использованием Flask, которое получает актуальные данные о погоде через API `OpenWeatherMap`. Приложение также включает кастомные страницы ошибок для улучшения пользовательского опыта.
