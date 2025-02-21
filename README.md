@@ -76,6 +76,6 @@ flask run
 ## Авторство
 Автор проекта - Константин Походяев `@kspohodyaev`
 
-[GitHub](htttps://github.com/KonstantinPohodyaev)
+[GitHub](https://github.com/KonstantinPohodyaev)
 
 
