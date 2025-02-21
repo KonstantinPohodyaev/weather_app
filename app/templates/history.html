@@ -1,0 +1,8 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h1 class="text-dark text-center">История запросов города {{ city }}</h1>
+  {% for weather in weather_objects %}
+    {% include 'includes/weather_card.html' %}
+  {% endfor %}
+{% endblock %}
